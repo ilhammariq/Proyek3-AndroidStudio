@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Background circle for the magnitude value -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:useLevel="false"
+    android:innerRadius="50dp"
+    android:thicknessRatio="15">
+
+    <gradient
+        android:startColor="FFFFFFFF"
+        android:centerColor="#FFFFFFFF"
+        android:endColor="#FF000000"
+        android:angle="135"/>
+
+    <size
+        android:width="120dp"
+        android:height="120dp"/>
+    </shape>

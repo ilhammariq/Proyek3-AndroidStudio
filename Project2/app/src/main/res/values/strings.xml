@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="data_pengukuran">DATA PENGUKURAN</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="volume">Volume</string>
+    <string name="berat">Berat</string>
+    <string name="beratd">Berat D</string>
+    <string name="copyright">\@Copyright 2020 Poltekpos</string>
+</resources>
